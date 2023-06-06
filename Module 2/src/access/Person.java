@@ -3,6 +3,7 @@ package access;
 public class Person {
 	Computer pc = new Computer();
 	private int age;
+	
 	//setter
 	public void setAge(int val) {
 		age = val;
