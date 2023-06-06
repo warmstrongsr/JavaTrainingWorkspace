@@ -1,0 +1,13 @@
+
+public class ForLoop {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	
+	static void loop(int max) {
+		//counter variable; condition; increment
+		for(int i = 0; i < max; i ++) {}
+	}
+}

@@ -1,0 +1,14 @@
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+
+public class Declaring {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	
+	static void read() throws FileNotFoundException{
+		FileInputStream file = new FileInputStream("file.txt");
+	}
+}

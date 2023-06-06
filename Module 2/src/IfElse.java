@@ -1,0 +1,13 @@
+public class IfElse {
+
+    public static void main(String[] args) {
+    	branch(true);
+    }
+    static void branch(boolean cond) {
+        if(cond)  {
+            System.out.println("True");
+        }else {
+            System.out.println("False");
+        }
+    }
+}

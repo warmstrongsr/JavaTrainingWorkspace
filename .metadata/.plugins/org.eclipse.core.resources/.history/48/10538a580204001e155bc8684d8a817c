@@ -1,0 +1,7 @@
+package com.example.hi;
+
+public class Computer {
+	
+	protected void code() {}
+
+}
