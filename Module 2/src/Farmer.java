@@ -9,10 +9,8 @@ public class Farmer {
 class Cucumber {
 	double calories;
 	
-	public void grow() {}
-	
 }
-class Pickle extends Cucumber, Salad {
+class Pickle extends Cucumber{
 	public Pickle() {
 		calories = calories * 0.70;
 	}

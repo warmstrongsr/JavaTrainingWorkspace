@@ -13,3 +13,6 @@ public class ForLoop {
 		}
 	}
 }
+//for (int i = 0; i < array.length; i++) {
+//		array[i] = i + 2;
+//		}
